@@ -11,6 +11,7 @@ Banks often manage vast amounts of financial data across different departments a
 <a href="https://github.com/Anagha-D15/Banking-Dashboard/blob/main/banking-clients.csv"> Banking-Clients</a>
 
 ## POWER BI DASHBOARD:
+<a href="https://github.com/Anagha-D15/Banking-Dashboard/blob/main/Banking%20Project%20Dashboard.pbix"> Power BI Dashboard</a>
 
 ## INSIGHTS:
 1.Mid-income clients contribute the highest share of both loans (942.49M) and deposits (1.09B).
