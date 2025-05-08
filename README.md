@@ -14,9 +14,13 @@ Banks often manage vast amounts of financial data across different departments a
 
 ## INSIGHTS:
 1.Mid-income clients contribute the highest share of both loans (942.49M) and deposits (1.09B).
+
 2.Private banking customers dominate in both loan and deposit amounts.
+
 3.Business lending is the largest loan category at 2.60 billion.
+
 4.One nationality group holds over 43% of both total loans and deposits.
+
 5.Accountants and database admins show higher loan activity; structural workers lead in deposits.
 
 ## CONCLUSION
