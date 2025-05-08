@@ -8,7 +8,7 @@ In today’s data-driven financial environment, banks must harness data visualiz
 Banks often manage vast amounts of financial data across different departments and client types. However, raw data alone lacks immediate meaning unless organized and visualized effectively. The main challenge is to translate this raw banking data into meaningful insights that can guide strategic decision-making—particularly in understanding client behavior, income trends, loan allocations, and deposit distribution by gender, occupation, and relationship categories.
 
 ## DATA RESOURCE:
-<a href="https://github.com/Anagha-D15/Banking-Dashboard/blob/main/banking-clients.csv"></a>
+<a href="https://github.com/Anagha-D15/Banking-Dashboard/blob/main/banking-clients.csv"Banking-Clients></a>
 
 ## POWER BI DASHBOARD:
 
