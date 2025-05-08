@@ -12,6 +12,8 @@ Banks often manage vast amounts of financial data across different departments a
 
 ## POWER BI DASHBOARD:
 <a href="https://github.com/Anagha-D15/Banking-Dashboard/blob/main/Banking%20Project%20Dashboard.pbix"> Power BI Dashboard</a>
+
+
 ![Home](https://github.com/user-attachments/assets/7034ace7-1ca6-4d6a-a81d-a3dbe1704bc1)
 ![Loan Analysis](https://github.com/user-attachments/assets/dff1bea4-1f34-4604-ac80-3d1d5fdfc3ae)
 ![Deposit Analysis](https://github.com/user-attachments/assets/f6cda430-fa77-49fa-8ceb-86b81d773445)
